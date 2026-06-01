@@ -12,7 +12,7 @@ const C = {
   primary:   "1A56DB",  // rich blue
   secondary: "7E3AF2",  // purple
   accent:    "0E9F6E",  // green
-  warning:   "C27803",  // amber
+  warning:   "C27804",  // amber
   danger:    "E02424",  // red
   dark:      "111928",  // near-black
   mid:       "374151",  // dark grey
