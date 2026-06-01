@@ -19,7 +19,7 @@ const C = {
   light:     "6B7280",  // medium grey
   bg1:       "EBF5FF",  // light blue bg
   bg2:       "F5F3FF",  // light purple bg
-  bg3:       "ECFDF5",  // light green bg
+  bg3:       "ECFDF6",  // light green bg
   bgWarn:    "FFFBEB",  // light amber
   bgCode:    "1E293B",  // dark code bg
   codeText:  "E2E8F0",  // code text
