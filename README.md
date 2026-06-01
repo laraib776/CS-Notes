@@ -9,8 +9,6 @@ This repository is a collection of computer science notes, generators, and study
 - `machine-learning/` - Machine learning notes, examples, and experiments.
 - `data-structures-and-algorithms/` - DSA notes and coding practice.
 
-## Current Projects
-
 ### API Course DOCX Generator
 
 Location:
