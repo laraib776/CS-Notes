@@ -11,7 +11,7 @@ This repository is a collection of computer science notes, generators, and study
 
 ## Current Projects
 
-### API Course DOCX Generator.
+### API Course DOCX Generator
 
 Location:
 
