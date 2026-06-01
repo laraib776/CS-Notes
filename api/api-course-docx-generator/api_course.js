@@ -355,7 +355,7 @@ const doc = new Document({
         spacer(200),
         new Paragraph({
           alignment: AlignmentType.CENTER,
-          children: [new TextRun({ text: "From Zero to Production-Ready APIs", font: "Arial", size: 28, italic: true, color: C.light })],
+          children: [new TextRun({ text: "From Zero to Production-Ready APIs ", font: "Arial", size: 28, italic: true, color: C.light })],
           spacing: { before: 0, after: 600 },
         }),
         spacer(400),
